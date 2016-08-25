@@ -15,10 +15,10 @@ cursor.execute("""
     ) ENGINE=InnoDB
     """)
 
-consumer_key='79oNDFiFz3d498A6ohpYYXPAx'
-consumer_secret='ItJauZnTmWevOCJgTaWTVZYVV4dHKaxIAaBVCFWE7UmF8qeOX4'
-access_token='613167436-lS5QRDLIJaokwCflJVKqJfYwAt0DPVGTusKSNSM8'
-access_token_secret='pLnGA2zrj1v3yuCojwKO6oBUGdpPA0Iyf7g1aCfBC3Mj8'
+consumer_key='xxxx'
+consumer_secret='xxxx'
+access_token='xxxx'
+access_token_secret='xxxx'
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
