@@ -1,6 +1,6 @@
 # NewEntityDiscovery
 This repository contains project files of my 3rd year Bachelor Project on Text Analysis.
-For complete details of project read my blog [here](http://manuchandel.com)
+For complete details of project read my blog [here](http://www.manuchandel.com/2016/05/02/NewEntityDiscovery.html)
 
 ### a.py
 
