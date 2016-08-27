@@ -1,10 +1,10 @@
 # NewEntityDiscovery
 This repository contains project files of my 3rd year Bachelor Project on Text Analysis.
-For complete details of project read my blog [here](http://www.manuchandel.com/2016/05/02/NewEntityDiscovery.html)
+For complete details of project read my blog [here](http://www.manuchandel.com/project/2016/05/02/NewEntityDiscovery.html)
 
 ### a.py
 
-Script fetches names of the people who have wikipedia page of their own. for more deatils click [here](http://www.manuchandel.com/2016/03/16/WikiHumanScraper.html)
+Script fetches names of the people who have wikipedia page of their own. for more deatils click [here](http://www.manuchandel.com/project/2016/03/16/WikiHumanScraper.html)
 
 ### b.py
 
